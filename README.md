@@ -15,7 +15,7 @@ Key Features
 ~File Path Completion: Context-aware completion for directories and files within the current workspace.
 
 ~Built-in Command Suite: Native Python implementations of core shell utilities:
-    cd: Supports relative paths, absolute paths, and home directory expansion (~).
+    cd: Supports relative paths, absolute paths, and home directory expansion.
     history: View session history with optional numeric limits (e.g., history 5).
     type: Distinguishes between shell built-ins and external executables.
     pwd & echo: Standard environment reporting and text output.
