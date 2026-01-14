@@ -10,7 +10,7 @@ Key Features
 
 ~Intelligent Auto-Completion: Custom readline completer that supports:
 
-~Command Completion: Scans the system PATH to autocomplete executable names.
+~Command Completion: Scans the system PATH to autocomplete executable names (using TRIE).
 
 ~File Path Completion: Context-aware completion for directories and files within the current workspace.
 
